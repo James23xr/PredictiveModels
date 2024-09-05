@@ -104,20 +104,5 @@ Key learnings include:
 - Investigate deployment strategies for production environments
 - Expand the comparison to include more metrics and scenarios
 
-## Contributing
-
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-
-James Bernard Amoah Fei-Baffoe - jbfeib27@colby.edu
-
-Project Link: [https://github.com/James23xr/PredictiveModels](https://github.com/James23xr/PredictiveModels)
-
----
 
 Thank you for your interest in this project! Your feedback and contributions are greatly appreciated.
